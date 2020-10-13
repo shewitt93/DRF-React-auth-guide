@@ -13,3 +13,6 @@ https://medium.com/@pshhewitt/the-pop-culture-guide-to-authentication-with-djang
 * npm install in llalfrontend directory
 * npm start
 * open localhost:3000 in browser
+
+
+## this has a secret key attached in the settings.py for the sake of this demo, please make sure to create a .env file and instead call it from there.
